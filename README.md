@@ -55,7 +55,7 @@ The `script/` directory contains Python scripts to answer the following question
 
 ## Project Structure
 ```
-.
+World-Billionaires-by-Forbes
 ├── assets
 │   └── forbes.jpg
 ├── datasets
